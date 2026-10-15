@@ -4,6 +4,11 @@
 
 7+ years of hands-on IT support and device repair. I fix the problem, document the fix, and make sure it stays fixed.
 
+## 🎓 Certifications
+
+- 🍎 **Apple Certified Technician** — trained via Atlas (Apple's official training platform)
+- 📱 **Samsung Authorized Repair Engineer** — trained via STG (Samsung's official training platform)
+
 ## 🔧 What I do
 
 **IT Support & Systems**
