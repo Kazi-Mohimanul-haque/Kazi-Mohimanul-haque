@@ -6,8 +6,8 @@
 
 ## 🎓 Certifications
 
-- 🍎 **Apple Certified Technician** — trained via Atlas (Apple's official training platform)
-- 📱 **Samsung Authorized Repair Engineer** — trained via STG (Samsung's official training platform)
+- 🍎 **ACiT — Apple Certified iOS Technician** — trained via Atlas (Apple's official training platform)
+- 📱 **Samsung Factory-Trained Repair Specialist** — 30+ courses via STG (Samsung's official training platform)
 
 ## 🔧 What I do
 
