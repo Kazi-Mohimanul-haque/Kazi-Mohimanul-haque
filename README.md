@@ -30,5 +30,6 @@
 
 ## 📫 Reach me
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/kazi-mohimanul-haque)
 - 🌐 [thegadgetbench.com](https://thegadgetbench.com)
 - 📞 905-808-8616
