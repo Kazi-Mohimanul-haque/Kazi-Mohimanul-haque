@@ -1,1 +1,29 @@
-IyBIaSB0aGVyZSwgSSdtIEthemkgTW9oaW1hbnVsIEhhcXVlIPCfkYsKCvCfkrsgKipJVCBTdXBwb3J0IFNwZWNpYWxpc3QgwrcgQ29tcHV0ZXIgU3lzdGVtcyBUZWNobmljaWFuKiog4oCUIE9ha3ZpbGxlLCBPbnRhcmlvLCBDYW5hZGEKCjcrIHllYXJzIG9mIGhhbmRzLW9uIElUIHN1cHBvcnQgYW5kIGRldmljZSByZXBhaXIuIEkgZml4IHRoZSBwcm9ibGVtLCBkb2N1bWVudCB0aGUgZml4LCBhbmQgbWFrZSBzdXJlIGl0IHN0YXlzIGZpeGVkLgoKIyMg8J+UpyBXaGF0IEkgZG8KCioqSVQgU3VwcG9ydCAmIFN5c3RlbXMqKgotIExldmVsIDIgU3lzdGVtIFRlY2huaWNpYW4gYXQgKipEci4gUGhvbmUgRml4KiogKDIwMjLigJNwcmVzZW50KQotIFByZXZpb3VzbHk6IExldmVsIDIgU2VydmljZSBEZXNrIEFuYWx5c3QgQCBSZXhhIMK3IExldmVsIDEgSVQgU3VwcG9ydCBAIFJ0ZWNoIFNvbHV0aW9ucyDCtyBJVCBUZWNobmljaWFuIEAgVGVjaFZpbGxhZ2UKLSBEaXBsb21hIGluIENvbXB1dGVyIFN5c3RlbXMgQWRtaW5pc3RyYXRpb24sIEdlb3JnZSBCcm93biBDb2xsZWdlICgyMDIyKQoKKipUZWNoIEkgd29yayB3aXRoKioKCmBBY3RpdmUgRGlyZWN0b3J5YCBgU0NDTWAgYFNlcnZpY2VOb3dgIGBNaWNyb3NvZnQgMzY1YCBgV2luZG93cyBTZXJ2ZXJgIGBOZXR3b3JraW5nYCBgSFRNTGAgYENTU2AgYFRhaWx3aW5kYAoKKipEZXZpY2UgcmVwYWlyKiog4oCUIGNvbXBvbmVudC1sZXZlbCBwaG9uZSwgdGFibGV0LCBjb21wdXRlciAmIGNvbnNvbGUgcmVwYWlyLCBQT1MgaGFyZHdhcmUsIHdvcmtzdGF0aW9uIGRlcGxveW1lbnQsIGFzc2V0IG1hbmFnZW1lbnQuCgojIyDwn5qAIFNpZGUgb2YgdGhlIGRlc2sKCi0gKipbVGhlIEdhZGdldCBCZW5jaF0oaHR0cHM6Ly90aGVnYWRnZXRiZW5jaC5jb20pKiog4oCUIG15IHJlcGFpciArIGNlcnRpZmllZCBwcmUtb3duZWQgcGhvbmUgYnVzaW5lc3MgaW4gT2FrdmlsbGUuIE9wZW4gMjQvNywgd2l0aCBtYWlsLWluIHNlcnZpY2UgYWNyb3NzIENhbmFkYS4KLSAqKlt0aGVnYWRnZXRiZW5jaF0oaHR0cHM6Ly9naXRodWIuY29tL0themktTW9oaW1hbnVsLWhhcXVlL3RoZWdhZGdldGJlbmNoKSoqIOKAlCB0aGlzIHdlYnNpdGUncyBzb3VyY2UgY29kZS4KLSAqKndpbmRvd3Mtc2VydmVyLWhvbWVsYWIqKiDigJQgbXkgZG9jdW1lbnRlZCBXaW5kb3dzIFNlcnZlciBsYWIuCgojIyDwn5OrIFJlYWNoIG1lCgotIPCfjJAgW3RoZWdhZGdldGJlbmNoLmNvbV0oaHR0cHM6Ly90aGVnYWRnZXRiZW5jaC5jb20pCi0g8J+TniA5MDUtODA4LTg2MTYK
+# Hi there, I'm Kazi Mohimanul Haque 👋
+
+💻 **IT Support Specialist · Computer Systems Technician** — Oakville, Ontario, Canada
+
+7+ years of hands-on IT support and device repair. I fix the problem, document the fix, and make sure it stays fixed.
+
+## 🔧 What I do
+
+**IT Support & Systems**
+- Level 2 System Technician at **Dr. Phone Fix** (2022–present)
+- Previously: Level 2 Service Desk Analyst @ Rexa · Level 1 IT Support @ Rtech Solutions · IT Technician @ TechVillage
+- Diploma in Computer Systems Administration, George Brown College (2022)
+
+**Tech I work with**
+
+`Active Directory` `SCCM` `ServiceNow` `Microsoft 365` `Windows Server` `Networking` `HTML` `CSS` `Tailwind`
+
+**Device repair** — component-level phone, tablet, computer & console repair, POS hardware, workstation deployment, asset management.
+
+## 🚀 Side of the desk
+
+- **[The Gadget Bench](https://thegadgetbench.com)** — my repair + certified pre-owned phone business in Oakville. Open 24/7, with mail-in service across Canada.
+- **[thegadgetbench](https://github.com/Kazi-Mohimanul-haque/thegadgetbench)** — this website's source code.
+- **windows-server-homelab** — my documented Windows Server lab.
+
+## 📫 Reach me
+
+- 🌐 [thegadgetbench.com](https://thegadgetbench.com)
+- 📞 905-808-8616
